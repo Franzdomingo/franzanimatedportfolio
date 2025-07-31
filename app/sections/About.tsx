@@ -21,17 +21,22 @@ const About = () => {
 
                 <div className="mx-auto flex w-[100%] flex-col lg:max-w-[1200px] lg:flex-row lg:gap-20">
                     <div className="mb-10 flex w-[100%] flex-col gap-4 text-[18px] font-medium  leading-relaxed tracking-wide text-[#e4ded7] md:mb-16 md:gap-6 md:text-[20px] md:leading-relaxed lg:mb-16  lg:max-w-[90%] lg:text-[24px] ">
-                        <AnimatedBody text="pursuing my B.tech in woxen university. I want to learn more about Front-end & Full Stack Development and i have a good command in javascript, Next.js, react.js, HTML&CSS. I believe in trying out new things and picking up challenges as it is always great to have knowledge in variety of subjects and have various experiences to share. im more interested in developing my weaknesses..." />
+                    <AnimatedBody text="I'm Franz Domingo, a BSCSSE student at FEU Tech and a software engineer specializing in Python, JavaScript, React, and Node.js. My focus: clean, maintainable, and well-documented full-stack code—preferably cloud-deployed and battle-tested in real projects." />
 
-                        <AnimatedBody
-                            delay={0.1}
-                            text="Whether I’m designing a sleek user interface or coding a complex application, I’m always striving to create something unique and innovative. I love experimenting with new technologies and staying up-to-date with the latest trends in the tech world."
-                        />
+                    <AnimatedBody
+                        delay={0.1}
+                        text="I thrive on learning by doing—debugging, prompt engineering, building optimized systems, and sometimes breaking things just to figure out how they work. Most days, I'm integrating LLMs, tinkering with deployment pipelines, or hunting for the next bottleneck to squash."
+                    />
 
-                        <AnimatedBody
-                            delay={0.2}
-                            text="Right now, I’m working on some exciting projects that I can’t wait to share with you. But I’m always open to new opportunities and collaborations."
-                        />
+                    <AnimatedBody
+                        delay={0.2}
+                        text="My toolkit is always evolving, but right now I’m leveling up in containerization (Docker), prompt engineering, and machine learning. I value collaboration, candid code reviews, and real feedback—no cargo culting, no endless theory without results."
+                    />
+
+                    <AnimatedBody
+                        delay={0.3}
+                        text="If you care about well-architected solutions, practical engineering, and the kind of team that challenges each other to get better, let’s talk. I'm open to new opportunities, collaborations, and a good debate on best practices."
+                    />
                     </div>
                 </div>
             </div>
