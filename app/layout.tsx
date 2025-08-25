@@ -12,7 +12,7 @@ const syne = Inter({
 export const metadata: Metadata = {
     metadataBase: new URL("https://pjreyes.vercel.app"),
     title: "prince jeruh reyes portfolio",
-    description: "prince jeruh reyes portfolio",
+    description: "Prince Jeruh A. Reyes is a Computer engineer specializing in C++, Java, Python and Network Security. Explore innovative projects, technical skills, and academic achievements in Computer engineering.",
     generator: "Next.js",
     applicationName: "prince jeruh reyes portfolio",
     keywords: [
@@ -20,8 +20,8 @@ export const metadata: Metadata = {
     ],
     colorScheme: "dark",
     openGraph: {
-        title: "prince jeruh reyes portfolio",
-        description: "prince jeruh reyes portfolio",
+    title: "prince jeruh reyes portfolio",
+    description: "Prince Jeruh A. Reyes is a Computer engineer specializing in C++, Java, Python and Network Security. Explore innovative projects, technical skills, and academic achievements in Computer engineering.",
         siteName: "prince jeruh reyes portfolio",
         images: [
             {
@@ -37,13 +37,7 @@ export const metadata: Metadata = {
     twitter: {
         card: "summary_large_image",
         title: "prince jeruh reyes portfolio",
-        description: "prince jeruh reyes portfolio",
-        creator: "prince jeruh reyes",
-        creatorId: "",
-        images: ["./public/metadata.jpg"],
-    },
-        title: "Prince Jeruh Reyes portfolio",
-        description: "Prince Jeruh A. Reyes is a Computer engineer specializing in C++, Java, Python and Network Security. Explore innovative projects, technical skills, and academic achievements in Computer engineering.",
+    description: "Prince Jeruh A. Reyes is a Computer engineer specializing in C++, Java, Python and Network Security. Explore innovative projects, technical skills, and academic achievements in Computer engineering.",
         creator: "prince jeruh reyes",
         creatorId: "",
         images: ["./public/avatar.jpg"],
