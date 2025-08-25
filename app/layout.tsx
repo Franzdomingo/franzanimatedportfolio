@@ -59,12 +59,20 @@ export const metadata: Metadata = {
     },
     twitter: {
         card: "summary_large_image",
+<<<<<<< Updated upstream
         title: "Portfolio template - Eldora UI",
         description:
       "Portfolio template - Eldora UI is a portfolio template built with React, Typescript, Tailwind CSS, and Framer Motion. 100% open-source, and customizable.",
         creator: "@karthikmudunuri",
         creatorId: "0000000000",
         images: ["./public/metadata.jpg"],
+=======
+        title: "Prince Jeruh Reyes portfolio",
+        description: "Prince Jeruh A. Reyes is a Computer engineer specializing in C++, Java, Python and Network Security. Explore innovative projects, technical skills, and academic achievements in Computer engineering.",
+        creator: "prince jeruh reyes",
+        creatorId: "",
+        images: ["./public/avatar.jpg"],
+>>>>>>> Stashed changes
     },
     robots: {
         index: true,
