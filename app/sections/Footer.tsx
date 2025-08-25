@@ -12,18 +12,18 @@ const Footer = () => {
         >
             <motion.div className="mx-auto flex w-[90%] flex-row items-center justify-between text-center text-[12px] text-[#e4ded7] sm:text-[12px] md:text-[14px] lg:max-w-[1440px] lg:text-[14px]">
                 <AnimatedBody
-                    text={"© 2025 Franz Domingo"}
+                    text={"© 2025 PJ REYES"}
                     className={"m-0 p-0"}
                 />
                 <div className="flex flex-col sm:flex-row  sm:gap-1 md:gap-2">
                     <AnimatedBody text={"Design & Deployed by"} className={"m-0 p-0"} />
                     <Link
-                        href="https://github.com/franzdomingo"
+                        href="https://www.linkedin.com/in/pj-reyes-19a745319/"
                         target="_blank"
                         aria-label="Eldora UI Github"
                     >
                         <span className="underline underline-offset-2 hover:no-underline">
-                            <AnimatedBody text={"franzdomingo"} className={"m-0 p-0"} />
+                            <AnimatedBody text={"Prince Jeruh Reyes"} className={"m-0 p-0"} />
                         </span>{" "}
                     </Link>
                 </div>
