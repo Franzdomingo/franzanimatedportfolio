@@ -11,7 +11,7 @@ const About = () => {
         >
             <div className="mx-auto flex w-[90%] flex-col items-center justify-center lg:max-w-[1212.8px]">
                 <AnimatedTitle
-                    text={"Franz Phillip Gatmen Domingo"}
+                    text={"Prince Jeruh A. Reyes"}
                     className={
                         "mb-10 text-left text-[40px] font-bold leading-[0.9em] tracking-tighter text-[#e4ded7] sm:text-[45px] md:mb-16 md:text-[60px] lg:text-[80px]"
                     }
@@ -21,7 +21,8 @@ const About = () => {
 
                 <div className="mx-auto flex w-[100%] flex-col lg:max-w-[1200px] lg:flex-row lg:gap-20">
                     <div className="mb-10 flex w-[100%] flex-col gap-4 text-[18px] font-medium  leading-relaxed tracking-wide text-[#e4ded7] md:mb-16 md:gap-6 md:text-[20px] md:leading-relaxed lg:mb-16  lg:max-w-[90%] lg:text-[24px] ">
-                    <AnimatedBody text="I'm Franz Domingo, a BSCSSE student at FEU Tech and a software engineer specializing in Python, JavaScript, React, and Node.js. My focus: clean, maintainable, and well-documented full-stack code—preferably cloud-deployed and battle-tested in real projects." />
+                    <AnimatedBody text="I'm Prince Jeruh A. Reyes, a BSCpE student at FEU Institute of Technology and a Computer engineer specializing in Python, Java, 
+                    C++ and Network Security." />
 
                     <AnimatedBody
                         delay={0.1}
