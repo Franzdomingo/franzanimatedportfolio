@@ -41,13 +41,12 @@ export const metadata: Metadata = {
         creator: "prince jeruh reyes",
         creatorId: "",
         images: ["./public/metadata.jpg"],
-=======
+    },
         title: "Prince Jeruh Reyes portfolio",
         description: "Prince Jeruh A. Reyes is a Computer engineer specializing in C++, Java, Python and Network Security. Explore innovative projects, technical skills, and academic achievements in Computer engineering.",
         creator: "prince jeruh reyes",
         creatorId: "",
         images: ["./public/avatar.jpg"],
->>>>>>> Stashed changes
     },
     robots: {
         index: true,
